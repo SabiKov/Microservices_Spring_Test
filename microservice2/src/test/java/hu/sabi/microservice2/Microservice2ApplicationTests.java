@@ -1,10 +1,10 @@
-package microservice1.personal.docet;
+package hu.sabi.microservice2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class Microservice2ApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package microservice1.personal.docet;
+package hu.sabi.microservice1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class Microservice1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(Microservice1Application.class, args);
 	}
 
 }
